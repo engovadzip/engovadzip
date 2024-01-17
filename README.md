@@ -39,7 +39,7 @@ Have a good day!
     </a>
 
 # Projects
-* [Youtube automation project](https://github.com/engovadzip/YT_TEST).  
+* [Youtube automation project](https://github.com/engovadzip/YT_TEST) (in process).  
 * QA.GURU graduation work ([UI](https://github.com/engovadzip/QA_guru_UI_project) and [API](https://github.com/engovadzip/QA_guru_API_project)).  
 
 # Certificates
