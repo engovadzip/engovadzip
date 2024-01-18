@@ -41,10 +41,10 @@ Have a good day!
     <img src="resources/jira-original.svg" height="40" width="40" />
 </a>
 
-# Projects
-* [YouTube UI project](https://github.com/engovadzip/YouTube_UI_project) (in process).  
+# Projects 
 * [Skvot boardshop UI project](https://github.com/engovadzip/skvot_boardshop_UI_project).  
 * [Restful booker API project](https://github.com/engovadzip/restful_booker_API_project).  
+* [YouTube UI project](https://github.com/engovadzip/YouTube_UI_project) (in process).
 
 # Certificates
 The following links will redirect you to pages with my certificates:
