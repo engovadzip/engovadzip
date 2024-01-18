@@ -8,35 +8,38 @@ Have a good day!
 
 # Stack
 <a href="https://www.python.org/">
-        <img src="resources/python-original.svg" height="40" width="40" />
-    </a>
-    <a href="https://www.jetbrains.com/pycharm/">
-        <img src="resources/pycharm-logo.svg" height="40" width="40" />
-    </a>
-    <a href="https://www.selenium.dev/documentation/webdriver/">
-        <img src="resources/selenium-original.svg" height="40" width="40" />
-    </a>
-    <a href="https://docs.pytest.org/">
-        <img src="resources/pytest-original.svg" height="40" width="40" />
-    </a>
-    <a href="https://git-scm.com/">
-        <img src="resources/git-original.svg" height="40" width="40" />
-    </a>
-    <a href="https://www.jenkins.io/">
-        <img src="resources/jenkins-original.svg" height="40" width="40" />
-    </a>
-    <a href="https://aerokube.com/selenoid/">
-        <img src="resources/aerokube_logo.svg" height="40" width="40" />
-    </a>
-    <a href="https://allurereport.org/">
-        <img src="resources/allure-report-logo.svg" height="40" width="40" />
-    </a>
-    <a href="https://qameta.io/">
-        <img src="resources/allure-testops.svg" height="40" width="40" />
-    </a>
-    <a href="https://telegram.org/">
-        <img src="resources/telegram-logo.svg" height="40" width="40" />
-    </a>
+    <img src="resources/python-original.svg" height="40" width="40" />
+</a>
+<a href="https://www.jetbrains.com/pycharm/">
+    <img src="resources/pycharm-logo.svg" height="40" width="40" />
+</a>
+<a href="https://www.selenium.dev/documentation/webdriver/">
+    <img src="resources/selenium-original.svg" height="40" width="40" />
+</a>
+<a href="https://docs.pytest.org/">
+    <img src="resources/pytest-original.svg" height="40" width="40" />
+</a>
+<a href="https://git-scm.com/">
+    <img src="resources/git-original.svg" height="40" width="40" />
+</a>
+<a href="https://www.jenkins.io/">
+    <img src="resources/jenkins-original.svg" height="40" width="40" />
+</a>
+<a href="https://aerokube.com/selenoid/">
+    <img src="resources/aerokube_logo.svg" height="40" width="40" />
+</a>
+<a href="https://allurereport.org/">
+    <img src="resources/allure-report-logo.svg" height="40" width="40" />
+</a>
+<a href="https://qameta.io/">
+    <img src="resources/allure-testops.svg" height="40" width="40" />
+</a>
+<a href="https://telegram.org/">
+    <img src="resources/telegram-logo.svg" height="40" width="40" />
+</a>
+<a href="https://www.atlassian.com/software/jira/">
+    <img src="resources/jira-original.svg" height="40" width="40" />
+</a>
 
 # Projects
 * [YouTube UI project](https://github.com/engovadzip/YouTube_UI_project) (in process).  
