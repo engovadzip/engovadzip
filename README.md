@@ -13,8 +13,14 @@ Have a good day!
 <a href="https://www.jetbrains.com/pycharm/">
     <img src="resources/pycharm-logo.svg" height="40" width="40" />
 </a>
+<a href="https://www.android.com/">
+    <img src="resources/Android_robot.svg" height="40" width="40" />
+</a>
 <a href="https://www.selenium.dev/documentation/webdriver/">
     <img src="resources/selenium-original.svg" height="40" width="40" />
+</a>
+<a href="https://appium.io/">
+    <img src="resources/appium.svg" height="40" width="40" />
 </a>
 <a href="https://docs.pytest.org/">
     <img src="resources/pytest-original.svg" height="40" width="40" />
@@ -42,8 +48,9 @@ Have a good day!
 </a>
 
 # Projects 
-* [Skvot boardshop UI project](https://github.com/engovadzip/skvot_boardshop_UI_project).  
-* [Restful booker API project](https://github.com/engovadzip/restful_booker_API_project).  
+* [Skvot boardshop UI testing project](https://github.com/engovadzip/skvot_boardshop_UI_project).  
+* [Restful booker API testing project](https://github.com/engovadzip/restful_booker_API_project).  
+* [Traektoria shop Android app testing project](https://github.com/engovadzip/traektoria_android_app_test_project).
 * [YouTube UI project](https://github.com/engovadzip/YouTube_UI_project) (in process).
 
 # Certificates
