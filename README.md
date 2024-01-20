@@ -1,6 +1,6 @@
 # About me
 
-Hi! My name is Timir. I am 29 years old, and I am QA Automation Engineer (Python) in [SIBINTEK](https://sibintek.ru). You can check [stack](#stack) that I work with and [projects](#projects) I made below.
+Hi! My name is Timir. I am 29 years old QA Automation Engineer (Python) in [SIBINTEK](https://sibintek.ru). You can check the [stack](#stack) that I work with and [projects](#projects) I made below.
 
 Also, you can check [certificates](#certificates) that I got while taking courses.
 
