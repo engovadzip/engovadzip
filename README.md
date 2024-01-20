@@ -51,7 +51,7 @@ Have a good day!
 * [Skvot boardshop UI testing project](https://github.com/engovadzip/skvot_boardshop_UI_project).  
 * [Restful booker API testing project](https://github.com/engovadzip/restful_booker_API_project).  
 * [Traektoria shop Android app testing project](https://github.com/engovadzip/traektoria_android_app_test_project).
-* [YouTube UI project](https://github.com/engovadzip/YouTube_UI_project) (in process).
+* [YouTube playback and rewind testing project](https://github.com/engovadzip/YouTube_UI_project).
 
 # Certificates
 The following links will redirect you to pages with my certificates:
