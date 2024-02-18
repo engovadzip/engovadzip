@@ -48,15 +48,15 @@ Have a good day!
 </a>
 
 # Projects 
-* **API testing projects:**
+* **API automated testing projects:**
   * [Restful booker API](https://github.com/engovadzip/restful_booker_API_project).  
   * [Pokémon TCG API](https://github.com/engovadzip/pokemon_API_project).
 
-* **UI testing projects:**
+* **UI automated testing projects:**
   * [Skvot boardshop](https://github.com/engovadzip/skvot_boardshop_UI_project).  
   * [YouTube (playback and rewind)](https://github.com/engovadzip/YouTube_UI_project).
 
-* **Android app testing projects:**
+* **Android app automated testing projects:**
   * [Traektoria shop](https://github.com/engovadzip/traektoria_android_app_test_project).
 
 # Certificates
