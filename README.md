@@ -48,14 +48,19 @@ Have a good day!
 </a>
 
 # Projects 
-* [Skvot boardshop UI testing project](https://github.com/engovadzip/skvot_boardshop_UI_project).  
-* [Restful booker API testing project](https://github.com/engovadzip/restful_booker_API_project).  
-* [Traektoria shop Android app testing project](https://github.com/engovadzip/traektoria_android_app_test_project).
-* [YouTube playback and rewind testing project](https://github.com/engovadzip/YouTube_UI_project).
+* **API testing projects:**
+  * [Restful booker API](https://github.com/engovadzip/restful_booker_API_project).  
+  * [Pokémon TCG API](https://github.com/engovadzip/pokemon_API_project).
+
+* **UI testing projects:**
+  * [Skvot boardshop](https://github.com/engovadzip/skvot_boardshop_UI_project).  
+  * [YouTube (playback and rewind)](https://github.com/engovadzip/YouTube_UI_project).
+
+* **Android app testing projects:**
+  * [Traektoria shop](https://github.com/engovadzip/traektoria_android_app_test_project).
 
 # Certificates
 The following links will redirect you to pages with my certificates:
-* [Python generation: a course for beginners](https://stepik.org/cert/2026645?lang=en).  
 * [Python generation: a course for advanced](https://stepik.org/cert/2119207?lang=en).  
 * [Test automation using Selenium and Python](https://stepik.org/cert/2199001?lang=en).  
 * [Interactive SQL simulator](https://stepik.org/cert/2221617?lang=en).
